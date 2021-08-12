@@ -56,9 +56,4 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
--
-    <div align="center">
-   <a href="https://discord.com/users/856718733745324052" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/856718733745324052">
-   </a>
-</div>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:285120067677716487)](https://discord.com/users/:285120067677716487)
