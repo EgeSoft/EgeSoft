@@ -56,9 +56,9 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-
-<div align="center">
-   <a href="https://discord.com/users/285120067677716487" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/285120067677716487a">
+-
+    <div align="center">
+   <a href="https://discord.com/users/280696584889696257" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/280696584889696257">
    </a>
 </div>
