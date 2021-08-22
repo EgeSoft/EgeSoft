@@ -16,7 +16,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
--
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -36,5 +36,5 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-[![Discord Presence](https://lanyard-profile-readme-orpin.vercel.app/api/285120067677716487)](https://discord.com/users/285120067677716487)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/285120067677716487)](https://discord.com/users/285120067677716487)
 
