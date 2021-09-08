@@ -40,5 +40,5 @@
 <br/>
 
 
- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/285120067677716487)](https://discord.com/users/285120067677716487)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/285120067677716487)](https://discord.com/users/285120067677716487)
 
