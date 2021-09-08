@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning everything 🤣
   
-- 🥅 2020 Goals: C# Learing
+- 🥅 2021 Goals: C# Learing
   
 - ⚡ Fun fact: I love to Video Games and play guitar
   
